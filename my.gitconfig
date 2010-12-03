@@ -1,0 +1,10 @@
+[user]
+	name = ang3lfir3
+	email = ang3lfir3@gmail.com
+[alias]
+	co = checkout
+	c = commit
+	st = status
+	watup = status
+[core]
+	autocrlf = false
